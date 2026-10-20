@@ -123,5 +123,10 @@ Vídeo gravado no modo **Simulation** do Packet Tracer, com o filtro de eventos 
 
 ---
 
-Projeto de estudo em ambiente simulado. Endereços e nomes são do laboratório e não
+- Projeto de estudo em ambiente simulado. Endereços e nomes são do laboratório e não
 correspondem a nenhuma rede em produção.
+---
+
+📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/rayaraescala-r-torres).
+
+---
