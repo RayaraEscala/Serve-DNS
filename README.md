@@ -34,12 +34,6 @@ Não há roteador na topologia, então todo o tráfego acontece dentro da mesma 
 | PC0 | Cliente | 192.166.10.2 | 255.255.255.0 |
 | Laptop0 | Cliente | 192.166.10.1 | 255.255.255.0 |
 
-> ⚠️ **Confira antes de publicar:** a faixa usada é `192.166.10.0/24`. Se a intenção era a
-> faixa privada mais comum, `192.168.10.0/24`, é só avisar que eu ajusto o README e os
-> valores. Como não existe roteador na topologia, o *gateway* configurado nas máquinas não
-> chega a ser exercitado neste teste — ele só entraria em ação se existisse outra rede para
-> alcançar.
-
 ---
 
 ## 1. Troca do módulo de rede do servidor por Gigabit
